@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sathwik Madasi</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm  Madasi< Sathwik/h1>
+<h3 align="center">A Computer Science undergraduate passionate about building scalable solutions using Data Science, Machine Learning, and Full-Stack Development</h3>
+<h3 align="center">Aspriring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madasisathwik&label=Profile%20views&color=0e75b6&style=flat" alt="madasisathwik" /> </p>
 
@@ -9,15 +10,15 @@
 
 - 🔭 I’m currently pursuing **B.Tech in Computer Science - at SR UNIVERSITY**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Java Developmetn**
 
 - 👯 I’m looking to collaborate on **Software Engineering and Full Stack Development**
 
-- 🤝 I’m looking for help with **Internships roles at Software Developer**
+- 🤝 I’m looking for help with **Internships roles at Software Developer, Java Developer, React.js Developer**
 
 - 👨‍💻 All of my projects are available at [https://madasisathwik.github.io/My-Portfolio/](https://madasisathwik.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Java, React, Python**
+- 💬 Ask me about **Building scalable applications, Optimizing ML models, and Developing real-world data-driven solutions.**
 
 - 📫 How to reach me **madasisathwik2005@gmail.com**
 
