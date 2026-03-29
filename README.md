@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently pursuing **B.Tech in Computer Science - at SR UNIVERSITY**
 
-- 🌱 I’m currently learning **Java Developmetn**
+- 🌱 I’m currently learning **Java Development**
 
 - 👯 I’m looking to collaborate on **Software Engineering and Full Stack Development**
 
