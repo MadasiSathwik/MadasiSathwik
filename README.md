@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Madasi< Sathwik/h1>
+<h1 align="center">Hi 👋, I'm  Madasi Sathwik</h1>
 <h3 align="center">A Computer Science undergraduate passionate about building scalable solutions using Data Science, Machine Learning, and Full-Stack Development</h3>
 <h3 align="center">Aspriring Software Engineer</h3>
 
