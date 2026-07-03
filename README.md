@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Internships roles at Software Developer, Java Developer, React.js Developer**
 
-- 👨‍💻 All of my projects are available at [https://madasisathwik.github.io/My-Portfolio/](https://madasisathwik.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://portfolio-sathwik-madasi.vercel.app/](https://portfolio-sathwik-madasi.vercel.app/)
 
 - 💬 Ask me about **Building scalable applications, Optimizing ML models, and Developing real-world data-driven solutions.**
 
@@ -26,9 +26,6 @@
 
 - ⚡ Fun fact **⚡ My code works… until someone touches it.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
